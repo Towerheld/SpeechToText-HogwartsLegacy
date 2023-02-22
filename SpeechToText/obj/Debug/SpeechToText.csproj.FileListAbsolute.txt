@@ -1,0 +1,8 @@
+D:\OneDrive\Dev\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe.config
+D:\OneDrive\Dev\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe
+D:\OneDrive\Dev\SpeechToText\SpeechToText\bin\Debug\SpeechToText.pdb
+D:\OneDrive\Dev\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.AssemblyReference.cache
+D:\OneDrive\Dev\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Dev\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dev\SpeechToText\SpeechToText\obj\Debug\SpeechToText.exe
+D:\OneDrive\Dev\SpeechToText\SpeechToText\obj\Debug\SpeechToText.pdb
